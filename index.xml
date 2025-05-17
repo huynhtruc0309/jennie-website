@@ -7,7 +7,7 @@
     <description>Praveen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://praveenkumar-rajendran.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://praveenkumar-rajendran.github.iomedia/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Praveen</title>
       <link>https://praveenkumar-rajendran.github.io/</link>
     </image>
@@ -350,19 +350,19 @@ $$&lt;/p&gt;
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;/media/boards.jpg&#34;
+      data-background-image=&#34;media/boards.jpg&#34;
   &gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assetscss/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
 .reveal section h2,
 .reveal section h3 {
